@@ -1,0 +1,7 @@
+D:\Dev\Visual Studio\Projects\Courses\AlgoritmTest\AlgoritmTest\bin\Debug\AlgoritmTest.exe.config
+D:\Dev\Visual Studio\Projects\Courses\AlgoritmTest\AlgoritmTest\bin\Debug\AlgoritmTest.exe
+D:\Dev\Visual Studio\Projects\Courses\AlgoritmTest\AlgoritmTest\bin\Debug\AlgoritmTest.pdb
+D:\Dev\Visual Studio\Projects\Courses\AlgoritmTest\AlgoritmTest\obj\Debug\AlgoritmTest.csprojResolveAssemblyReference.cache
+D:\Dev\Visual Studio\Projects\Courses\AlgoritmTest\AlgoritmTest\obj\Debug\AlgoritmTest.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio\Projects\Courses\AlgoritmTest\AlgoritmTest\obj\Debug\AlgoritmTest.exe
+D:\Dev\Visual Studio\Projects\Courses\AlgoritmTest\AlgoritmTest\obj\Debug\AlgoritmTest.pdb
